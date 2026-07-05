@@ -4,7 +4,7 @@
 
 ### 💻 Computer Engineering Undergraduate • 🤖 AI Enthusiast • 🚀 Full-Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Full-Stack+Developer+with+an+interest+in+AI;Java+%7C+Python+%7C+Next.js+%7C+FastAPI;Always+curious.+Always+building." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=750&lines=Building+AI-powered+applications;Exploring+Machine+Learning+and+Software+Engineering;Java+%7C+Python+%7C+Next.js+%7C+FastAPI;Turning+ideas+into+real-world+systems." />
 
 </div>
 
@@ -61,6 +61,8 @@ goal:
 - SentenceTransformers
 - LangChain
 - FAISS
+- PyTorch
+- OpenCV
 
 ---
 
@@ -68,7 +70,7 @@ goal:
 
 ## 🤖 EduAgent (Flagship Project)
 
-> **Production-ready AI-powered learning platform featuring Retrieval-Augmented Generation (RAG), PDF-based tutoring, adaptive quiz generation, AI coach reports, mind maps, and personalized learning analytics.**
+> **Production-ready AI-powered learning platform featuring Retrieval-Augmented Generation (RAG), PDF-based tutoring, adaptive quiz generation, AI coach reports, mind maps, flashcards, and personalized learning analytics.**
 >
 > **Tech Stack:** Next.js • FastAPI • SQLite • ChromaDB • Gemini • Groq • Docker • DigitalOcean • Vercel
 >
@@ -78,7 +80,13 @@ goal:
 
 ## 😴 Driver Drowsiness Detection System
 
-> AI-powered early drowsiness detection system using computer vision and deep learning techniques to identify signs of fatigue and improve road safety.
+> **Research-oriented CNN-LSTM framework for early driver drowsiness detection that models three vigilance states (Alert, Low Vigilant, Drowsy) instead of conventional binary classification. The system uses EfficientNet-B0 embeddings and temporal sequence learning to identify pre-drowsy behaviour before full drowsiness occurs.**
+>
+> **Tech Stack:** PyTorch • EfficientNet-B0 • LSTM • OpenCV • MediaPipe • TFLite • Flutter
+>
+> **Research Focus:** Subject-wise cross-validation, temporal modelling, early drowsiness detection, and comparison against traditional EAR-based methods.
+>
+> 📄 **Research Paper:** Currently preparing an IEEE-style research paper on early driver drowsiness detection using temporal facial embeddings and intermediate vigilance state modelling.
 
 ---
 
@@ -132,7 +140,7 @@ goal:
 
 <div align="center">
 
-### 💡 *"Code. Learn. Build. Repeat."*
+### 💡 *"Build things that solve real problems, and the learning will follow."*
 
 ⭐ Thanks for visiting my profile!
 
