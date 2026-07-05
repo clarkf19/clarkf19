@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Clark Fernandes
 
-### 💻 Computer Engineering Undergraduate • 🤖 AI Developer • 🚀 Full-Stack Builder
+### 💻 Computer Engineering Undergraduate • 🤖 AI Enthusiast • 🚀 Full-Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+AI-powered+applications;Exploring+Machine+Learning+and+RAG;Java+%7C+Python+%7C+Next.js+%7C+FastAPI;Always+learning.+Always+building." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Full-Stack+Developer+with+an+interest+in+AI;Java+%7C+Python+%7C+Next.js+%7C+FastAPI;Always+curious.+Always+building." />
 
 </div>
 
@@ -16,6 +16,7 @@
 name: Clark Fernandes
 location: Mumbai, India 🇮🇳
 education: B.Tech Computer Engineering @ SPIT
+
 interests:
   - Artificial Intelligence
   - Software Engineering
@@ -23,9 +24,9 @@ interests:
   - Machine Learning
 
 currently_learning:
-  - RAG Systems
-  - LLM Applications
-  - Scalable Backend Systems
+  - Machine Learning
+  - Data Structures & Algorithms
+  - Backend Development
 
 goal:
   - Summer 2027 Software Engineering Internship
@@ -50,31 +51,40 @@ goal:
 ### 🗄️ Databases & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,git,github,vscode,docker" />
 </p>
 
 ### 🤖 AI / ML
 
-- LangChain
-- LangGraph
-- SentenceTransformers
-- FAISS
 - Scikit-learn
 - XGBoost
+- SentenceTransformers
+- LangChain
+- FAISS
 
 ---
 
 # 🚀 Featured Projects
 
-## 🎬 Movie Recommendation System
+## 🤖 EduAgent (Flagship Project)
 
-> AI-powered semantic recommendation engine using vector embeddings and natural language understanding.
+> **Production-ready AI-powered learning platform featuring Retrieval-Augmented Generation (RAG), PDF-based tutoring, adaptive quiz generation, AI coach reports, mind maps, and personalized learning analytics.**
+>
+> **Tech Stack:** Next.js • FastAPI • SQLite • ChromaDB • Gemini • Groq • Docker • DigitalOcean • Vercel
+>
+> **Deployment:** Frontend deployed on Vercel and backend containerized with Docker and hosted on DigitalOcean using Nginx, HTTPS, and DuckDNS.
 
 ---
 
-## 🤖 EduAgent
+## 😴 Driver Drowsiness Detection System
 
-> Multi-agent AI learning assistant featuring Retrieval-Augmented Generation (RAG), adaptive quizzes, personalized study plans, and learning analytics.
+> AI-powered early drowsiness detection system using computer vision and deep learning techniques to identify signs of fatigue and improve road safety.
+
+---
+
+## 🎬 Movie Recommendation System
+
+> Semantic movie recommendation engine using vector embeddings, similarity search, and natural language understanding.
 
 ---
 
@@ -90,23 +100,11 @@ goal:
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=clarkf19&show_icons=true&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarkf19&layout=compact&hide_border=true" />
-
-</p>
-
----
-
 # 🎯 2026 Focus
 
 - 📚 Master Data Structures & Algorithms
-- 🤖 Build production-ready AI systems
-- 🌐 Develop scalable full-stack applications
+- 🤖 Build AI-powered applications
+- 🌐 Develop scalable full-stack projects
 - 🚀 Contribute to open source
 - 💼 Prepare for Software Engineering internships
 
@@ -134,7 +132,7 @@ goal:
 
 <div align="center">
 
-### 💡 *"The best way to predict the future is to build it."*
+### 💡 *"Code. Learn. Build. Repeat."*
 
 ⭐ Thanks for visiting my profile!
 
