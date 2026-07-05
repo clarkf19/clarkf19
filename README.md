@@ -90,9 +90,13 @@ goal:
 
 ---
 
-## 🎬 Movie Recommendation System
+## 🎬 CineMind AI
 
-> Semantic movie recommendation engine using vector embeddings, similarity search, and natural language understanding.
+> **AI-powered semantic movie recommendation platform that understands natural language queries, moods, and themes to deliver highly relevant cinematic recommendations. The system combines SentenceTransformer embeddings, FAISS vector search, and hybrid reranking to move beyond traditional keyword-based recommendation systems.**
+>
+> **Tech Stack:** Next.js • FastAPI • SentenceTransformers • FAISS • Pandas • Scikit-learn • TMDB 5000 Dataset
+>
+> **Key Features:** Semantic movie search, hybrid recommendation scoring, watchlist management, advanced filtering and sorting, and an interactive score breakdown visualizer.
 
 ---
 
