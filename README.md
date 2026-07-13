@@ -43,6 +43,17 @@ ClarkFernandes@github:~$
 
 ---
 
+# 🌟 Highlights
+
+- 🤖 Amazon ML Summer School 2026 Participant
+- ☁️ Google Cloud Arcade Facilitator Program 2026
+- 📄 Preparing an IEEE-style research paper on Early Driver Drowsiness Detection
+- 🎓 Certified in **Supervised Machine Learning: Regression and Classification** (Stanford University & DeepLearning.AI)
+- ⚡ NVIDIA Fundamentals of Deep Learning
+- 🚀 Building AI-powered applications with PyTorch, FastAPI and Next.js
+
+---
+
 # 🏅 Programs & Certifications
 
 | Program / Certification | Status |
@@ -51,23 +62,6 @@ ClarkFernandes@github:~$
 | ☁️ Google Cloud Arcade Facilitator Program 2026 | 🚀 Participant |
 | 🎓 Supervised Machine Learning: Regression and Classification (Stanford University & DeepLearning.AI) | ✅ Completed |
 | ⚡ NVIDIA Fundamentals of Deep Learning | ✅ Completed |
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=clarkf19&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarkf19&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=clarkf19&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=clarkf19&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
-</p>
 
 ---
 
@@ -102,31 +96,36 @@ PyTorch • Scikit-learn • XGBoost • OpenCV • LangChain • SentenceTransf
 # 🚀 Featured Projects
 
 ## 🤖 EduAgent
-AI-powered personalized learning platform with RAG, PDF tutoring, flashcards, quizzes, AI coach reports, mind maps and learning analytics.
+
+AI-powered personalized learning platform featuring Retrieval-Augmented Generation (RAG), PDF tutoring, adaptive quizzes, flashcards, mind maps and personalized learning analytics.
 
 **Tech:** Next.js • FastAPI • ChromaDB • Gemini • Docker • DigitalOcean
 
 ---
 
 ## 😴 Driver Drowsiness Detection System
-Research-oriented CNN-LSTM framework using EfficientNet-B0 temporal facial embeddings for three-class vigilance prediction.
+
+Research-oriented CNN-LSTM framework using EfficientNet-B0 temporal facial embeddings for early driver drowsiness detection.
 
 **Status:** 📄 IEEE-style paper in preparation.
 
 ---
 
 ## 🎬 CineMind AI
-Semantic movie recommendation engine using SentenceTransformers and FAISS vector search.
+
+Semantic movie recommendation engine powered by SentenceTransformers and FAISS vector search.
 
 ---
 
 ## 🏫 Aether
+
 AI-powered campus management platform.
 
 ---
 
 ## 📚 Library Management System
-Full-stack application for library management.
+
+Full-stack web application for managing books, members and borrowing.
 
 ---
 
@@ -154,10 +153,10 @@ Full-stack application for library management.
 
 - ✅ Amazon ML Summer School
 - ✅ Google Cloud Arcade Facilitator Program
-- 📚 Master Machine Learning fundamentals
-- 📄 Publish IEEE research paper
+- 📚 Strengthen Machine Learning fundamentals
+- 📄 Publish my IEEE research paper
 - 💻 Reach 300+ LeetCode problems
-- 🚀 Build production-ready AI systems
+- 🚀 Build production-ready AI applications
 - 🌍 Contribute to Open Source
 
 ---
