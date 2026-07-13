@@ -5,10 +5,10 @@
 
 ### 💻 Computer Engineering Undergraduate • 🤖 AI/ML Enthusiast • 📊 Aspiring Machine Learning Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Building+AI-powered+applications;Amazon+ML+Summer+School+2026+Participant;Exploring+Machine+Learning+and+AI+Research;Java+%7C+Python+%7C+PyTorch+%7C+FastAPI;Turning+ideas+into+intelligent+systems." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=950&lines=Building+AI-powered+applications;Amazon+ML+Summer+School+2026+Participant;Google+Cloud+Arcade+Facilitator+Program+2026;Exploring+Machine+Learning+and+AI+Research;Java+%7C+Python+%7C+PyTorch+%7C+FastAPI;Turning+ideas+into+intelligent+systems." />
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=clarkf19&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=clarkf19&label=Profile%20Views&color=0e75b6&style=flat"/>
 <img src="https://img.shields.io/github/followers/clarkf19?style=flat&logo=github"/>
 </p>
 
@@ -22,7 +22,6 @@
 ClarkFernandes@github:~$
 
 🎓 B.Tech Computer Engineering @ SPIT
-
 📍 Mumbai, India
 
 🤖 Interested In
@@ -33,17 +32,29 @@ ClarkFernandes@github:~$
 
 🚀 Currently
 ├── Amazon ML Summer School 2026 Participant
+├── Google Cloud Arcade Facilitator Program 2026
 ├── Building AI-powered applications
 ├── Researching Driver Drowsiness Detection
 └── Solving Data Structures & Algorithms
 
 🎯 Goal
-└── Summer 2027 Software Engineering / AI-ML Internship
+└── Summer 2027 Software Engineering / AI/ML Internship
 ```
 
 ---
 
-# 🏆 GitHub Analytics
+# 🏅 Programs & Certifications
+
+| Program / Certification | Status |
+|--------------------------|--------|
+| 🤖 Amazon ML Summer School 2026 | 🚀 Participant |
+| ☁️ Google Cloud Arcade Facilitator Program 2026 | 🚀 Participant |
+| 🎓 Supervised Machine Learning: Regression and Classification (Stanford University & DeepLearning.AI) | ✅ Completed |
+| ⚡ NVIDIA Fundamentals of Deep Learning | ✅ Completed |
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=clarkf19&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -66,71 +77,57 @@ ClarkFernandes@github:~$
 
 # ⚡ Tech Stack
 
-### 👨‍💻 Languages
-
+### Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,js,ts" />
+<img src="https://skillicons.dev/icons?i=java,python,c,js,ts"/>
 </p>
 
-### 🌐 Development
-
+### Development
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,html,css,tailwind,docker,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,html,css,tailwind,docker,git,github,vscode"/>
 </p>
 
-### 🗄️ Databases
-
+### Databases
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase"/>
 </p>
 
-### 🤖 AI / ML
+### AI / ML
 
 <p align="center">
-
 PyTorch • Scikit-learn • XGBoost • OpenCV • LangChain • SentenceTransformers • FAISS
-
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🤖 EduAgent
+### 🤖 EduAgent
+AI-powered personalized learning platform with RAG, PDF tutoring, flashcards, quizzes, AI coach reports, and learning analytics.
 
-> Production-ready AI learning platform featuring RAG, PDF tutoring, flashcards, quizzes, AI coach reports, mind maps and personalized learning analytics.
-
-**Tech:** Next.js • FastAPI • ChromaDB • Gemini • Groq • Docker • DigitalOcean • Vercel
-
----
-
-## 😴 Driver Drowsiness Detection System
-
-> Research-oriented CNN-LSTM framework for early driver drowsiness detection using EfficientNet-B0 temporal facial embeddings across three vigilance states.
-
-**Tech:** PyTorch • EfficientNet-B0 • LSTM • OpenCV • MediaPipe • Flutter
-
-📄 *IEEE-style paper currently in preparation.*
+**Tech:** Next.js • FastAPI • ChromaDB • Gemini • Docker • DigitalOcean
 
 ---
 
-## 🎬 CineMind AI
+### 😴 Driver Drowsiness Detection System
+Research-oriented CNN-LSTM framework using EfficientNet-B0 temporal embeddings for three-class vigilance prediction.
 
-> AI-powered semantic movie recommendation engine using SentenceTransformers and FAISS vector search.
-
-**Tech:** Next.js • FastAPI • SentenceTransformers • FAISS • Scikit-learn
-
----
-
-## 🏫 Aether
-
-> AI-powered campus management platform for approvals, issue tracking and smart workflows.
+**Status:** 📄 IEEE-style paper in preparation.
 
 ---
 
-## 📚 Library Management System
+### 🎬 CineMind AI
+Semantic movie recommendation engine using SentenceTransformers and FAISS vector search.
 
-> Full-stack application for managing books, members, borrowing and returns.
+---
+
+### 🏫 Aether
+AI-powered campus management platform.
+
+---
+
+### 📚 Library Management System
+Full-stack application for library management.
 
 ---
 
@@ -138,10 +135,10 @@ PyTorch • Scikit-learn • XGBoost • OpenCV • LangChain • SentenceTransf
 
 ### Early Driver Drowsiness Detection using Temporal Facial Embeddings
 
-- 🚗 CNN-LSTM based temporal modelling
-- 🧠 EfficientNet-B0 feature extraction
-- 📊 Three-class vigilance prediction
-- 📝 IEEE paper in preparation
+- CNN-LSTM temporal modelling
+- EfficientNet-B0 feature extraction
+- Three-class vigilance prediction
+- IEEE paper in preparation
 
 ---
 
@@ -157,11 +154,12 @@ PyTorch • Scikit-learn • XGBoost • OpenCV • LangChain • SentenceTransf
 # 🎯 2026 Roadmap
 
 - ✅ Amazon ML Summer School
-- 📚 Strengthen Machine Learning fundamentals
-- 🧠 Build impactful AI-powered applications
-- 📄 Publish my research paper
-- 💻 Reach 300+ LeetCode problems
-- 🚀 Contribute to open source
+- ✅ Google Cloud Arcade Facilitator Program
+- 📚 Master Machine Learning fundamentals
+- 📄 Publish IEEE research paper
+- 💻 300+ LeetCode problems
+- 🚀 Build production-ready AI systems
+- 🌍 Contribute to open source
 
 ---
 
