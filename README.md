@@ -1,10 +1,11 @@
+````md
 <div align="center">
 
 # 👋 Hi, I'm Clark Fernandes
 
-### 💻 Computer Engineering Undergraduate • 🤖 AI Enthusiast • 🚀 Full-Stack Developer
+### 💻 Computer Engineering Undergraduate • 🤖 AI/ML Enthusiast • 📊 Aspiring Machine Learning Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=750&lines=Building+AI-powered+applications;Exploring+Machine+Learning+and+Software+Engineering;Java+%7C+Python+%7C+Next.js+%7C+FastAPI;Turning+ideas+into+real-world+systems." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Building+AI-powered+applications;Amazon+ML+Summer+School+2026+Participant;Exploring+Machine+Learning+and+AI+Research;Java+%7C+Python+%7C+PyTorch+%7C+FastAPI;Turning+ideas+into+intelligent+systems." />
 
 </div>
 
@@ -20,17 +21,28 @@ education: B.Tech Computer Engineering @ SPIT
 interests:
   - Artificial Intelligence
   - Software Engineering
-  - Full-Stack Development
   - Machine Learning
+  - AI Research
 
 currently_learning:
   - Machine Learning
   - Data Structures & Algorithms
-  - Backend Development
 
 goal:
   - Summer 2027 Software Engineering Internship
 ```
+
+---
+
+# 🏆 Programs & Achievements
+
+<p>
+  <img src="https://img.shields.io/badge/Amazon%20ML%20Summer%20School-2026-FF9900?style=for-the-badge&logo=amazon&logoColor=white" />
+</p>
+
+- 🎓 Participant in **Amazon ML Summer School 2026**
+- 🤖 Strengthening foundations in Machine Learning through Amazon's learning program
+- 📚 Applying ML concepts to AI research and real-world applications
 
 ---
 
@@ -42,7 +54,7 @@ goal:
 <img src="https://skillicons.dev/icons?i=java,python,c,js,ts" />
 </p>
 
-### 🌐 Frontend & Backend
+### 🌐 Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css,tailwind,fastapi" />
@@ -57,11 +69,11 @@ goal:
 ### 🤖 AI / ML
 
 - Scikit-learn
+- PyTorch
 - XGBoost
 - SentenceTransformers
 - LangChain
 - FAISS
-- PyTorch
 - OpenCV
 
 ---
@@ -115,10 +127,11 @@ goal:
 # 🎯 2026 Focus
 
 - 📚 Master Data Structures & Algorithms
-- 🤖 Build AI-powered applications
-- 🌐 Develop scalable full-stack projects
+- 🤖 Deepen my Machine Learning knowledge
+- 🧠 Build intelligent AI-powered applications
+- 📄 Publish my driver drowsiness detection research
 - 🚀 Contribute to open source
-- 💼 Prepare for Software Engineering internships
+- 💼 Prepare for Software Engineering & AI/ML internships
 
 ---
 
@@ -149,3 +162,4 @@ goal:
 ⭐ Thanks for visiting my profile!
 
 </div>
+````
