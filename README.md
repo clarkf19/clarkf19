@@ -5,7 +5,7 @@
 
 ### 💻 Computer Engineering Undergraduate • 🤖 AI/ML Enthusiast • 📊 Aspiring Machine Learning Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=950&lines=Building+AI-powered+applications;Amazon+ML+Summer+School+2026+Participant;Google+Cloud+Arcade+Facilitator+Program+2026;Exploring+Machine+Learning+and+AI+Research;Java+%7C+Python+%7C+PyTorch+%7C+FastAPI;Turning+ideas+into+intelligent+systems." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=950&lines=Building+AI-powered+applications;Amazon+ML+Summer+School+2026+Participant;Google+Cloud+Arcade+Facilitator+Program+2026;Exploring+Machine+Learning+and+AI+Research;Java+%7C+Python+%7C+PyTorch+%7C+FastAPI;Turning+ideas+into+intelligent+systems."/>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=clarkf19&label=Profile%20Views&color=0e75b6&style=flat"/>
@@ -57,42 +57,41 @@ ClarkFernandes@github:~$
 # 📈 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=clarkf19&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarkf19&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=clarkf19&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarkf19&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=clarkf19&theme=tokyonight&hide_border=true"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=clarkf19&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=clarkf19&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=clarkf19&theme=tokyo-night&hide_border=true"/>
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=clarkf19&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
 # ⚡ Tech Stack
 
-### Languages
+### 👨‍💻 Languages
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,c,js,ts"/>
 </p>
 
-### Development
+### 🌐 Development
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,html,css,tailwind,docker,git,github,vscode"/>
 </p>
 
-### Databases
+### 🗄️ Databases
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase"/>
 </p>
 
-### AI / ML
+### 🤖 AI / ML
 
 <p align="center">
 PyTorch • Scikit-learn • XGBoost • OpenCV • LangChain • SentenceTransformers • FAISS
@@ -102,31 +101,31 @@ PyTorch • Scikit-learn • XGBoost • OpenCV • LangChain • SentenceTransf
 
 # 🚀 Featured Projects
 
-### 🤖 EduAgent
-AI-powered personalized learning platform with RAG, PDF tutoring, flashcards, quizzes, AI coach reports, and learning analytics.
+## 🤖 EduAgent
+AI-powered personalized learning platform with RAG, PDF tutoring, flashcards, quizzes, AI coach reports, mind maps and learning analytics.
 
 **Tech:** Next.js • FastAPI • ChromaDB • Gemini • Docker • DigitalOcean
 
 ---
 
-### 😴 Driver Drowsiness Detection System
-Research-oriented CNN-LSTM framework using EfficientNet-B0 temporal embeddings for three-class vigilance prediction.
+## 😴 Driver Drowsiness Detection System
+Research-oriented CNN-LSTM framework using EfficientNet-B0 temporal facial embeddings for three-class vigilance prediction.
 
 **Status:** 📄 IEEE-style paper in preparation.
 
 ---
 
-### 🎬 CineMind AI
+## 🎬 CineMind AI
 Semantic movie recommendation engine using SentenceTransformers and FAISS vector search.
 
 ---
 
-### 🏫 Aether
+## 🏫 Aether
 AI-powered campus management platform.
 
 ---
 
-### 📚 Library Management System
+## 📚 Library Management System
 Full-stack application for library management.
 
 ---
@@ -157,9 +156,9 @@ Full-stack application for library management.
 - ✅ Google Cloud Arcade Facilitator Program
 - 📚 Master Machine Learning fundamentals
 - 📄 Publish IEEE research paper
-- 💻 300+ LeetCode problems
+- 💻 Reach 300+ LeetCode problems
 - 🚀 Build production-ready AI systems
-- 🌍 Contribute to open source
+- 🌍 Contribute to Open Source
 
 ---
 
