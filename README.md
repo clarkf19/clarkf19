@@ -7,42 +7,60 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Building+AI-powered+applications;Amazon+ML+Summer+School+2026+Participant;Exploring+Machine+Learning+and+AI+Research;Java+%7C+Python+%7C+PyTorch+%7C+FastAPI;Turning+ideas+into+intelligent+systems." />
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=clarkf19&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/clarkf19?style=flat&logo=github"/>
+</p>
+
 </div>
 
 ---
 
 # 🧠 About Me
 
-```yaml
-name: Clark Fernandes
-location: Mumbai, India 🇮🇳
-education: B.Tech Computer Engineering @ SPIT
+```text
+ClarkFernandes@github:~$
 
-interests:
-  - Artificial Intelligence
-  - Software Engineering
-  - Machine Learning
-  - AI Research
+🎓 B.Tech Computer Engineering @ SPIT
 
-currently_learning:
-  - Machine Learning
-  - Data Structures & Algorithms
+📍 Mumbai, India
 
-goal:
-  - Summer 2027 Software Engineering Internship
+🤖 Interested In
+├── Artificial Intelligence
+├── Machine Learning
+├── AI Research
+└── Software Engineering
+
+🚀 Currently
+├── Amazon ML Summer School 2026 Participant
+├── Building AI-powered applications
+├── Researching Driver Drowsiness Detection
+└── Solving Data Structures & Algorithms
+
+🎯 Goal
+└── Summer 2027 Software Engineering / AI-ML Internship
 ```
 
 ---
 
-# 🏆 Programs & Achievements
+# 🏆 GitHub Analytics
 
-<p>
-  <img src="https://img.shields.io/badge/Amazon%20ML%20Summer%20School-2026-FF9900?style=for-the-badge&logo=amazon&logoColor=white" />
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=clarkf19&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarkf19&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-- 🎓 Participant in **Amazon ML Summer School 2026**
-- 🤖 Strengthening foundations in Machine Learning through Amazon's learning program
-- 📚 Applying ML concepts to AI research and real-world applications
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=clarkf19&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=clarkf19&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=clarkf19&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
@@ -50,94 +68,106 @@ goal:
 
 ### 👨‍💻 Languages
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,c,js,ts" />
 </p>
 
 ### 🌐 Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css,tailwind,fastapi" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,html,css,tailwind,docker,git,github,vscode" />
 </p>
 
-### 🗄️ Databases & Tools
+### 🗄️ Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,git,github,vscode,docker" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase" />
 </p>
 
 ### 🤖 AI / ML
 
-- Scikit-learn
-- PyTorch
-- XGBoost
-- SentenceTransformers
-- LangChain
-- FAISS
-- OpenCV
+<p align="center">
+
+PyTorch • Scikit-learn • XGBoost • OpenCV • LangChain • SentenceTransformers • FAISS
+
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🤖 EduAgent (Flagship Project)
+## 🤖 EduAgent
 
-> **Production-ready AI-powered learning platform featuring Retrieval-Augmented Generation (RAG), PDF-based tutoring, adaptive quiz generation, AI coach reports, mind maps, flashcards, and personalized learning analytics.**
->
-> **Tech Stack:** Next.js • FastAPI • SQLite • ChromaDB • Gemini • Groq • Docker • DigitalOcean • Vercel
->
-> **Deployment:** Frontend deployed on Vercel and backend containerized with Docker and hosted on DigitalOcean using Nginx, HTTPS, and DuckDNS.
+> Production-ready AI learning platform featuring RAG, PDF tutoring, flashcards, quizzes, AI coach reports, mind maps and personalized learning analytics.
+
+**Tech:** Next.js • FastAPI • ChromaDB • Gemini • Groq • Docker • DigitalOcean • Vercel
 
 ---
 
 ## 😴 Driver Drowsiness Detection System
 
-> **Research-oriented CNN-LSTM framework for early driver drowsiness detection that models three vigilance states (Alert, Low Vigilant, Drowsy) instead of conventional binary classification. The system uses EfficientNet-B0 embeddings and temporal sequence learning to identify pre-drowsy behaviour before full drowsiness occurs.**
->
-> **Tech Stack:** PyTorch • EfficientNet-B0 • LSTM • OpenCV • MediaPipe • TFLite • Flutter
->
-> **Research Focus:** Subject-wise cross-validation, temporal modelling, early drowsiness detection, and comparison against traditional EAR-based methods.
->
-> 📄 **Research Paper:** Currently preparing an IEEE-style research paper on early driver drowsiness detection using temporal facial embeddings and intermediate vigilance state modelling.
+> Research-oriented CNN-LSTM framework for early driver drowsiness detection using EfficientNet-B0 temporal facial embeddings across three vigilance states.
+
+**Tech:** PyTorch • EfficientNet-B0 • LSTM • OpenCV • MediaPipe • Flutter
+
+📄 *IEEE-style paper currently in preparation.*
 
 ---
 
 ## 🎬 CineMind AI
 
-> **AI-powered semantic movie recommendation platform that understands natural language queries, moods, and themes to deliver highly relevant cinematic recommendations. The system combines SentenceTransformer embeddings, FAISS vector search, and hybrid reranking to move beyond traditional keyword-based recommendation systems.**
->
-> **Tech Stack:** Next.js • FastAPI • SentenceTransformers • FAISS • Pandas • Scikit-learn • TMDB 5000 Dataset
->
-> **Key Features:** Semantic movie search, hybrid recommendation scoring, watchlist management, advanced filtering and sorting, and an interactive score breakdown visualizer.
+> AI-powered semantic movie recommendation engine using SentenceTransformers and FAISS vector search.
+
+**Tech:** Next.js • FastAPI • SentenceTransformers • FAISS • Scikit-learn
 
 ---
 
 ## 🏫 Aether
 
-> AI-powered campus management platform for leave approvals, room booking, issue tracking, payments, and AI-assisted workflows.
+> AI-powered campus management platform for approvals, issue tracking and smart workflows.
 
 ---
 
 ## 📚 Library Management System
 
-> Full-stack web application for managing books, borrowing, returns, and member records.
+> Full-stack application for managing books, members, borrowing and returns.
 
 ---
 
-# 🎯 2026 Focus
+# 📄 Research
 
-- 📚 Master Data Structures & Algorithms
-- 🤖 Deepen my Machine Learning knowledge
-- 🧠 Build intelligent AI-powered applications
-- 📄 Publish my driver drowsiness detection research
+### Early Driver Drowsiness Detection using Temporal Facial Embeddings
+
+- 🚗 CNN-LSTM based temporal modelling
+- 🧠 EfficientNet-B0 feature extraction
+- 📊 Three-class vigilance prediction
+- 📝 IEEE paper in preparation
+
+---
+
+# 🌱 Currently Learning
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Data Structures & Algorithms
+
+---
+
+# 🎯 2026 Roadmap
+
+- ✅ Amazon ML Summer School
+- 📚 Strengthen Machine Learning fundamentals
+- 🧠 Build impactful AI-powered applications
+- 📄 Publish my research paper
+- 💻 Reach 300+ LeetCode problems
 - 🚀 Contribute to open source
-- 💼 Prepare for Software Engineering & AI/ML internships
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="mailto:clarkfern13@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -162,4 +192,3 @@ goal:
 ⭐ Thanks for visiting my profile!
 
 </div>
-````
