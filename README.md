@@ -1,11 +1,10 @@
-
 <div align="center">
 
 # 👋 Hi, I'm Clark Fernandes
 
 ### 💻 Computer Engineering Undergraduate • 🤖 AI/ML Enthusiast • 📊 Aspiring Machine Learning Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=950&lines=Building+AI-powered+applications;Amazon+ML+Summer+School+2026+Participant;Google+Cloud+Arcade+Facilitator+Program+2026;Exploring+Machine+Learning+and+AI+Research;Java+%7C+Python+%7C+PyTorch+%7C+FastAPI;Turning+ideas+into+intelligent+systems."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=950&lines=Building+AI-powered+applications;Amazon+ML+Summer+School+2026+Participant;Google+Cloud+Arcade+Facilitator+Program+2026;Exploring+Machine+Learning+and+AI;Java+%7C+Python+%7C+PyTorch+%7C+FastAPI;Turning+ideas+into+intelligent+systems."/>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=clarkf19&label=Profile%20Views&color=0e75b6&style=flat"/>
@@ -27,14 +26,14 @@ ClarkFernandes@github:~$
 🤖 Interested In
 ├── Artificial Intelligence
 ├── Machine Learning
-├── AI Research
+├── Computer Vision
 └── Software Engineering
 
 🚀 Currently
 ├── Amazon ML Summer School 2026 Participant
 ├── Google Cloud Arcade Facilitator Program 2026
 ├── Building AI-powered applications
-├── Researching Driver Drowsiness Detection
+├── Implementing Deep Learning projects
 └── Solving Data Structures & Algorithms
 
 🎯 Goal
@@ -47,10 +46,10 @@ ClarkFernandes@github:~$
 
 - 🤖 Amazon ML Summer School 2026 Participant
 - ☁️ Google Cloud Arcade Facilitator Program 2026
-- 📄 Preparing an IEEE-style research paper on Early Driver Drowsiness Detection
+- 😴 Implemented an Early Driver Drowsiness Detection System using CNN-LSTM and EfficientNet-B0
 - 🎓 Certified in **Supervised Machine Learning: Regression and Classification** (Stanford University & DeepLearning.AI)
 - ⚡ NVIDIA Fundamentals of Deep Learning
-- 🚀 Building AI-powered applications with PyTorch, FastAPI and Next.js
+- 🚀 Building AI-powered applications using PyTorch, FastAPI and Next.js
 
 ---
 
@@ -67,25 +66,25 @@ ClarkFernandes@github:~$
 
 # ⚡ Tech Stack
 
-### 👨‍💻 Languages
+## 👨‍💻 Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,c,js,ts"/>
 </p>
 
-### 🌐 Development
+## 🌐 Development
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,html,css,tailwind,docker,git,github,vscode"/>
 </p>
 
-### 🗄️ Databases
+## 🗄️ Databases
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase"/>
 </p>
 
-### 🤖 AI / ML
+## 🤖 AI / ML
 
 <p align="center">
 PyTorch • Scikit-learn • XGBoost • OpenCV • LangChain • SentenceTransformers • FAISS
@@ -105,9 +104,9 @@ AI-powered personalized learning platform featuring Retrieval-Augmented Generati
 
 ## 😴 Driver Drowsiness Detection System
 
-Research-oriented CNN-LSTM framework using EfficientNet-B0 temporal facial embeddings for early driver drowsiness detection.
+Implemented a CNN-LSTM based driver drowsiness detection system using EfficientNet-B0 temporal facial embeddings for three-class vigilance prediction.
 
-**Status:** 📄 IEEE-style paper in preparation.
+**Tech:** PyTorch • OpenCV • EfficientNet-B0 • LSTM
 
 ---
 
@@ -129,17 +128,6 @@ Full-stack web application for managing books, members and borrowing.
 
 ---
 
-# 📄 Research
-
-### Early Driver Drowsiness Detection using Temporal Facial Embeddings
-
-- CNN-LSTM temporal modelling
-- EfficientNet-B0 feature extraction
-- Three-class vigilance prediction
-- IEEE paper in preparation
-
----
-
 # 🌱 Currently Learning
 
 - Machine Learning
@@ -154,10 +142,8 @@ Full-stack web application for managing books, members and borrowing.
 - ✅ Amazon ML Summer School
 - ✅ Google Cloud Arcade Facilitator Program
 - 📚 Strengthen Machine Learning fundamentals
-- 📄 Publish my IEEE research paper
 - 💻 Reach 300+ LeetCode problems
 - 🚀 Build production-ready AI applications
-- 🌍 Contribute to Open Source
 
 ---
 
